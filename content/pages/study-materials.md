@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: These are the questions that are focused on in every lecture to help
+  students gain a better understanding of vision science, specifically around illusions
+  and perceptual cues.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 72d2033f-24b6-4332-d4ee-bccf1a6faab6
 ---

@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: This section provides online references for additional resources in the
+  field of visual perception. These range from professional societies that maintain
+  links to areas that any reader can explore in this field. Many of the linked sites
+  provide resources for further study, as well as downloadable resources that can
+  be used for classroom teaching.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: d086c64e-17cb-8478-f3c8-15ef5be01ba6
 ---
